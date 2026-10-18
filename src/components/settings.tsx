@@ -112,6 +112,10 @@ export function Settings({ runs, onClear }: SettingsProps) {
           For any complaints, bug reports, or feature requests, DM me on
           Discord.
         </p>
+
+        <a className="link" href="https://github.com/astrlf/amera">
+          Repository
+        </a>
       </footer>
     </div>
   );
